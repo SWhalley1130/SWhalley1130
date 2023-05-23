@@ -22,6 +22,7 @@
 
  - 💻 &nbsp; ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=bootstrap&logoColor=563D7C)
  - 🌐 &nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+ - 🔧 &nbsp; ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
 <br><br>
