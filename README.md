@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Sarah Whalley!
 
-<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fhacking-cat&psig=AOvVaw02xEfK7pXAsg68gaJq7PjW&ust=1684950325085000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPiqgJ__i_8CFQAAAAAdAAAAABAI" alt="Coder GIF" width="500" height="400">
+<img align="right" src="https://media3.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e47cuf8y0peac586z8q822iavokkmtu21vgqmuc7kdd&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coder GIF" width="500" height="400">
 
  <a href="https://dev.to/ankitwarbhe">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ankit's Dev" width="26"/>
