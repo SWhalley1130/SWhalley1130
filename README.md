@@ -1,4 +1,4 @@
-## Hi 👋, I'm Sarah Whalley!
+## Hi 👋 I'm Sarah Whalley!
 
 <img align="right" src="https://media3.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e47cuf8y0peac586z8q822iavokkmtu21vgqmuc7kdd&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coder GIF" width="500" height="400">
 
@@ -12,13 +12,18 @@
 
 
 
-
+<h3>About Me </h3>
 
 - I'm a recent graduate of Flatiron School's Software Engineering Bootcamp;
 - Learning about deployment and code-as-infrasture with Terraform;
 - I love connecting with different people so if you want any help, I'll be happy to meet you more!;
 - How to reach me: s.whalley1130@gmail.com;
 - [Resume](https://docs.google.com/document/d/1LylCzMecN3xTzz60mQ_NEjksXITKU0AM2vwIBsiGYzU/edit?usp=sharing) <br>
+
+
+
+
+<h3>Tech Stack </h3>
 
  - 💻 &nbsp; ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=bootstrap&logoColor=563D7C)
  - 🌐 &nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
