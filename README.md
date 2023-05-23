@@ -20,8 +20,8 @@
 - How to reach me: s.whalley1130@gmail.com;
 - [Resume](https://docs.google.com/document/d/1LylCzMecN3xTzz60mQ_NEjksXITKU0AM2vwIBsiGYzU/edit?usp=sharing) <br>
 
- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=bootstrap&logoColor=563D7C)
- ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+ - 💻 &nbsp; ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+ - 🌐 &nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 
 
 <br><br>
