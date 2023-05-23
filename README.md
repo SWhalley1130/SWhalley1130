@@ -40,4 +40,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SWhalley1130&show_icons=true&theme=radical">
 </a>
 
-⭐️ From [Ankit Warbhe](https://github.com/ankitwarbhe)
+⭐️ Profile created using [Ankit Warbhe](https://github.com/ankitwarbhe) and [AVS1508](https://github.com/AVS1508)'s templates, and [Anuraghazra](https://github.com/anuraghazra)'s readme stats. 
