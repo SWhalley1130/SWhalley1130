@@ -6,7 +6,7 @@
   <img src="https://blog.huntr.co/content/images/2021/10/HuntrLogoNotion.png" alt="Sarah's Huntr" width="26"/>
 </a>
 <a href="https://www.linkedin.com/in/sarah-whalley-/">
-  <img align="left" alt="Sarah's LinkdeIN" width="22px" src="https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png" />
+  <img align="left" alt="Sarah's LinkdeIN" width="26" src="https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png" />
 </a>
 
 
