@@ -34,10 +34,10 @@
 
 <br><br>
 <a href="https://github.com/SWhalley1130">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SWhalley1130&show_icons=true&theme=radical">
-</a>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" alt="Sarah's github stats"/>
+</a> <br>
 <a href="https://github.com/SWhalley1130">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Sarah's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SWhalley1130&show_icons=true&theme=radical">
 </a>
 
 ⭐️ From [Ankit Warbhe](https://github.com/ankitwarbhe)
