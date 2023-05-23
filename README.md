@@ -2,11 +2,11 @@
 
 <img align="right" src="https://media3.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e47cuf8y0peac586z8q822iavokkmtu21vgqmuc7kdd&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coder GIF" width="500" height="400">
 
- <a href="https://dev.to/ankitwarbhe">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ankit's Dev" width="26"/>
+ <a href="https://huntr.co/p/sarah-whalley">
+  <img src="https://blog.huntr.co/content/images/2021/10/HuntrLogoNotion.png" alt="Sarah's Huntr" width="26"/>
 </a>
 <a href="https://www.linkedin.com/in/sarah-whalley-/">
-  <img align="left" alt="Sarah's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Sarah's LinkdeIN" width="22px" src="https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png" />
 </a>
 
 
