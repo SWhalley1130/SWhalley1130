@@ -37,7 +37,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SWhalley1130&show_icons=true&theme=radical">
 </a>
 <a href="https://github.com/SWhalley1130">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=SWhalley1130&show_icons=true&theme=dark&line_height=30" alt="Sarah's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Sarah's github stats"/>
 </a>
 
 ⭐️ From [Ankit Warbhe](https://github.com/ankitwarbhe)
