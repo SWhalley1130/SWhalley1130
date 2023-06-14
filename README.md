@@ -17,7 +17,6 @@
 - I'm a recent graduate of Flatiron School's Software Engineering Bootcamp;
 - Learning about deployment and code-as-infrasture with Terraform;
 - Some experience with Java, C#, ASP.NET and Entity Framework;
-- I love connecting with different people so if you want any help, I'll be happy to meet you more!;
 - How to reach me: s.whalley1130@gmail.com;
 - [Resume](https://docs.google.com/document/d/1LylCzMecN3xTzz60mQ_NEjksXITKU0AM2vwIBsiGYzU/edit?usp=sharing); <br>
 
